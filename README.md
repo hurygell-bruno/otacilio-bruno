@@ -18,7 +18,7 @@ Atualmente estou desenvolvendo em Front End e Back End buscando tambem ser Full-
     
 ## Contatos 📱
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/otacilio-bruno-9276a7269?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app/) 
-![Gmail](https://img.shields.io/badge/Gmail-#fbf2f8?style=for-the-badge&logo=gmail&logoColor=white)
+![Gmail](https://img.shields.io/badge/Gmail-ad2853?style=for-the-badge&logo=gmail&logoColor=white)
 ![Instagram](https://img.shields.io/badge/Instagram-fbf2f8?style=for-the-badge&logo=instagram&logoColor=white[https://www.instagram.com/otacilio_brunoo?igshid=OGQ5ZDc2ODk2ZA==/)
 
 ### Estatistica GitHub 📊
