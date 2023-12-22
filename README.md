@@ -23,7 +23,7 @@ Atualmente estou desenvolvendo em Front End e Back End buscando tambem ser Full-
 
 
 ### Estatistica GitHub 📊
-![Inara GitHub stats](https://github-readme-stats.vercel.app/api?username=InaraapCardoso&show_icons=true&theme=radical)
+![Otacilio GitHub stats](https://github-readme-stats.vercel.app/api?username=OtacilioBruno&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=InaraapCardoso&layout=compact)
 
