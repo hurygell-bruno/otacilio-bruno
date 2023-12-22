@@ -26,4 +26,4 @@ Atualmente estou desenvolvendo em Front End e Back End buscando tambem ser Full-
 ![otacilio-bruno GitHub stats](https://github-readme-stats.vercel.app/api?username=otacilio-bruno&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=otacilio-bruno&layout=compact)
-https://camo.githubusercontent.com/87def0c5764ffe7ba5f50934679bea4de2061383348897a4e6cd3f46594c2727/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d6f746163696c696f2d6272756e6f266c61796f75743d636f6d70616374
+[https://camo.githubusercontent.com/87def0c5764ffe7ba5f50934679bea4de2061383348897a4e6cd3f46594c2727/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d6f746163696c696f2d6272756e6f266c61796f75743d636f6d70616374)
