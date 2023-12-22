@@ -19,10 +19,10 @@ Atualmente estou desenvolvendo em Front End e Back End buscando tambem ser Full-
 ## Contatos 📱
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://github.com/otacilio-bruno/) 
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-![instagram](https://www.instagram.com/otacilio_brunoo?igshid=OGQ5ZDc2ODk2ZA==)
+![instagram]EgZjaHJvbWUyBggAEEUYOTIJCAEQABgNGIAEMgkIAhAAGA0YgAQyCQgDEAAYDRiABDIJCAQQABgNGIAEMgkIBRAAGA0YgAQyCQgGEAAYDRiABDIJCAcQABgNGIAEMgkICBAAGA0YgAQyCQgJEAAYDRiABNIBCDY5MzVqMGo3qAIAsAIA(https://www.instagram.com/otacilio_brunoo?igshid=OGQ5ZDc2ODk2ZA==)
 
 
 ### Estatistica GitHub 📊
-![Otacilio GitHub stats](https://github-readme-stats.vercel.app/api?username=OtacilioBruno&show_icons=true&theme=radical)
+![Inara GitHub stats](https://github-readme-stats.vercel.app/api?username=InaraapCardoso&show_icons=true&theme=radical)
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=InaraapCardoso&layout=compact)
