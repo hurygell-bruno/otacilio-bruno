@@ -22,7 +22,7 @@ Atualmente estou desenvolvendo em Front End e Back End buscando tambem ser Full-
 ![Instagram](https://img.shields.io/badge/Instagram-fbf2f8?style=for-the-badge&logo=instagram&logoColor=white[https://www.instagram.com/otacilio_brunoo?igshid=OGQ5ZDc2ODk2ZA==/)
 
 ### Estatistica GitHub 📊
-![otacilio-bruno GitHub stats](https://github-readme-stats.vercel.app/api?username=otacilio-bruno&show_icons=true&theme=radical)
+![Hurygell-bruno GitHub stats](https://github-readme-stats.vercel.app/api?username=otacilio-bruno&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=otacilio-bruno&layout=compact)
 
