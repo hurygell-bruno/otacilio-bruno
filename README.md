@@ -1,4 +1,4 @@
-### Olá! Eu sou o Otacílio Bruuno 👋
+### Olá! Eu sou o Hurygell Bruuno 👋
 
 ### Sobre mim 🚀:
 Atualmente estou desenvolvendo em Front End e Back End buscando tambem ser Full-Stack,estou buscando sempre aprender cada vez mais, tenho muita vontade em estudar e adquirir conhecimento amplo.<br/> Estou também cursando faculdade de Engenharia de Software e fazendo uma especialização de um ano para Full-Stack e outros cursos de tecnologoia na área de programação.
