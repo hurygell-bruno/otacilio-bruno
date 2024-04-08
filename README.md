@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Otacílio Bruno 👋
 
 ### Sobre mim 🚀:
-Atualmente estou desenvolvendo em Front End e Back End buscando tambem ser Full-Stack,estou buscando sempre aprender cada vez mais, tenho muita vontade em estudar e adquirir conhecimento amplo.<br/> Estou também cursando faculdade de Engenharia de Software e fazendo uma especialização de um ano para Full-Stack e outros cursos de tecnologoia na área de programação.
+Atualmente estou desenvolvendo em Front End e Back End buscando tambem ser Full-Stack,estou buscando sempre aprender cada vez mais, tenho muita vontade em estudar e adquirir conhecimento amplo.<br/> Estou também cursando Bacharelado em Engenharia de Software e fazendo uma especialização de um ano para Full-Stack e outros cursos de tecnologoia na área de programação.
 
 ## Tecnólogias Desenvolvidas 
 
