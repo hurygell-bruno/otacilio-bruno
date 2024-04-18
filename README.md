@@ -21,7 +21,7 @@ Atualmente estou desenvolvendo em Front End e Back End buscando tambem ser Full-
 ![Gmail](https://img.shields.io/badge/Gmail-ad2853?style=for-the-badge&logo=gmail&logoColor=white)
 ![Instagram](https://img.shields.io/badge/Instagram-fbf2f8?style=for-the-badge&logo=instagram&logoColor=white[https://www.instagram.com/otacilio_brunoo?igshid=OGQ5ZDc2ODk2ZA==/)
 ![whatsapp](https://img.shields.io/badge/whatsapp-83?style=for-the-badge&logo=gmahttps://abrir.link/IXKvp/)
-![telefone](https://img.shields.io/badge/telefone-53?style=for-the-badge&logo=gmahttps://abrir.link/IXKvp/)
+![telefone](https://img.shields.io/badge/telefone-53?s/)
 ### Estatistica GitHub 📊
 ![otacilio-bruno GitHub stats](https://github-readme-stats.vercel.app/api?username=otacilio-bruno&show_icons=true&theme=radical)
 
