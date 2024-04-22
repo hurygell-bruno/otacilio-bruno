@@ -14,7 +14,7 @@ Atualmente estou desenvolvendo em Front End e Back End buscando tambem ser Full-
 <img align="center" alt="github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
 <img align="center" alt="git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
 <img align="center" alt="Vue.js" src="https://img.shields.io/badge/Vue.js-83?style=for-the-badge&logo=vue.js&logoColor=white">
-<img align="center" alt="php" src="https://img.shields.io/badge/php-83?style=for-the-badge&logo=php&logoColor=white">
+<img align="center" alt="php" src="https://img.shields.io/badge/php-4d4982?style=for-the-badge&logo=php&logoColor=white">
 
 </div>
     
