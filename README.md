@@ -7,6 +7,7 @@ Atualmente estou desenvolvendo em Front End e Back End buscando tambem ser Full-
 
 <div style="display: inline_block"><br/>
 <img align="center" alt="python" src="https://img.shields.io/badge/PYTHON-4d4982?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" width="60">
 <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img align="center" alt="mysql" src="https://img.shields.io/badge/MYSQL-4d4982?style=for-the-badge&logo=mysql&logoColor=white">
 <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
