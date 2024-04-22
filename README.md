@@ -12,7 +12,7 @@ Atualmente estou desenvolvendo em Front End e Back End buscando tambem ser Full-
 <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 <img align="center" alt="github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
-<img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" width="50">
+<img src="https://www.vuejs.zone/logos/vuejs/vuejs-icon.svg" width="50">
 <img align="center" alt="git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
 
 </div>
