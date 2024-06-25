@@ -1,6 +1,10 @@
 ### 😎 Obrigado por visitar o meu perfil do GitHub,Otacílio Bruno! 👋
 
 ### Sobre mim 🚀:
+Minha trajetória na área de TI é bastante rica e variada. Com quase 10 anos de experiência, você acumulou habilidades valiosas em suporte técnico, configuração de servidores, montagem de computadores e redes, além de uma sólida base em manutenção e instalação de diversos sistemas e equipamentos. Sua transição para a programação e desenvolvimento de projetos, mantendo uma paixão pelo suporte técnico, mostra sua versatilidade e dedicação contínua ao crescimento profissional e ao sucesso das empresas em que trabalha.
+
+Meu compromisso, facilidade em trabalhar em equipe e foco nos objetivos da empresa são qualidades que certamente o ajudarão a prosperar tanto na área de DevOps Engineer quanto em qualquer outra área de TI em que eu escolher se especializar.
+
 Atualmente estou desenvolvendo em Front End e Back End buscando uma formação em Full-Stack,estou buscando sempre aprender cada vez mais, tenho muita vontade em estudar e adquirir conhecimento amplo.<br/> Estou também cursando Bacharelado em Engenharia de Software e fazendo uma especialização de um ano para Full-Stack e outros cursos de tecnologoia na área de programação.
 
 ## Tecnólogias Desenvolvidas 
