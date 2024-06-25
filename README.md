@@ -1,11 +1,13 @@
 ### 😎 Obrigado por visitar o meu perfil do GitHub,Otacílio Bruno! 👋
 
 ### Sobre mim 🚀:
-Minha trajetória na área de TI é bastante rica e variada. Com quase 10 anos de experiência, você acumulou habilidades valiosas em suporte técnico, configuração de servidores, montagem de computadores e redes, além de uma sólida base em manutenção e instalação de diversos sistemas e equipamentos. Sua transição para a programação e desenvolvimento de projetos, mantendo uma paixão pelo suporte técnico, mostra sua versatilidade e dedicação contínua ao crescimento profissional e ao sucesso das empresas em que trabalha.
+Iniciei minha trajetória na área de TI em 2012, adquirindo experiência em configuração de servidores, montagem de computadores e suporte remoto a usuários via TeamViewer e VNC. Atuei também no suporte interno a funcionários, realizando manutenção preventiva, limpeza, formatação, configuração e instalação de impressoras, switches, roteadores, redes Wi-Fi, modems, redes TCP/IP e cabeamento. Tenho conhecimento profundo em Windows (2000, XP, Vista, 7, Server 2003 e 2008), internet, intranet, correio eletrônico, Office, Outlook, Excel e Word, prestando suporte tanto em hardware quanto em software.
 
-Meu compromisso, facilidade em trabalhar em equipe e foco nos objetivos da empresa são qualidades que certamente o ajudarão a prosperar tanto na área de DevOps Engineer quanto em qualquer outra área de TI em que eu escolher se especializar.
+#Meu compromisso, facilidade em trabalhar em equipe e foco nos objetivos da empresa são qualidades que certamente o ajudarão a prosperar tanto na área de DevOps Engineer quanto em qualquer outra área de TI em que eu escolher se especializar. Atualmente estou cursando Engenharia de Software, e DevOps.
 
-Atualmente estou desenvolvendo em Front End e Back End buscando uma formação em Full-Stack,estou buscando sempre aprender cada vez mais, tenho muita vontade em estudar e adquirir conhecimento amplo.<br/> Estou também cursando Bacharelado em Engenharia de Software e fazendo uma especialização de um ano para Full-Stack e outros cursos de tecnologoia na área de programação.
+#Com quase 10 anos de experiência na área, atualmente estou focado em programação e desenvolvimento de projetos, embora ainda goste muito de trabalhar com suporte. Sou um profissional comprometido, que não mede esforços para contribuir com o crescimento e desenvolvimento da instituição. Tenho facilidade em trabalhar em equipe, sempre focando nas metas e objetivos para o crescimento da empresa.
+
+##Atualmente estou desenvolvendo em Front End e Back End buscando uma formação em Full-Stack,estou buscando sempre aprender cada vez mais, tenho muita vontade em estudar e adquirir conhecimento amplo.<br/> Estou também cursando Bacharelado em Engenharia de Software e fazendo uma especialização de um ano para Full-Stack e outros cursos de tecnologoia na área de programação.
 
 ## Tecnólogias Desenvolvidas 
 
